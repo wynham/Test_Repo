@@ -1,1 +1,5 @@
-print("hello world")
+def main(name):
+    print(name)
+
+main("Wynham")
+
